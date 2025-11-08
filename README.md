@@ -47,19 +47,11 @@ This project is a **modern, responsive static website** designed for a professio
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/<sagor233/hockeys-club-website.git
-cd hockeys-club-website
----
+📞 Contact
 
-## 📞 Contact
+Author: Sourav Biswas
+Email: souravnwu25@gmail.com
 
-**Author:** Sourav Biswas  
-**Email:** souravnwu25@gmail.com  
-**GitHub:** [sagor233](https://github.com/sagor233)  
-**Project Date:** 8 November 2025  
+GitHub: sagor233
 
----
-
-> 💬 _“Hockey is not just a game, it's passion on ice.”_
-
+Project Date: 8 November 2025
