@@ -48,5 +48,5 @@ This project is a **modern, responsive static website** designed for a professio
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/hockeys-club-website.git
+git clone https://github.com/<sagor233/hockeys-club-website.git
 cd hockeys-club-website
